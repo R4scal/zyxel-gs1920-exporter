@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/R4scal/zyxel_gs1920_exporter/collector"
+	"github.com/R4scal/zyxel-gs1920-exporter/collector"
 	"github.com/prometheus/client_golang/prometheus"
 	"golang.org/x/net/html"
 )
